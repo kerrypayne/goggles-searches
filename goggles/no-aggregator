@@ -5,6 +5,7 @@
 ! avatar: #de0320
 
 $discard,site=yp.com
+$discard,site=yellowpages.com
 $discard,site=yelp.com
 
 !Original syntax of this page
